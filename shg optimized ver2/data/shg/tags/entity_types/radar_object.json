@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-      "minecraft:player",
-      "#minecraft:impact_projectiles"
-    ],
-    "required": true
-  }
