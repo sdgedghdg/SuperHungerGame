@@ -6,3 +6,8 @@ scoreboard objectives add SHGI_CShotgun08 dummy "手枪子弹填充数0/8"
 # scoreboard players add @a thisValueIs20 20
 
 tag @a add SHG_PLAYER
+
+# CustomModelData:
+# radar:160
+# shotgun8 (not loaded):280
+# shotgun8 (loaded):280
