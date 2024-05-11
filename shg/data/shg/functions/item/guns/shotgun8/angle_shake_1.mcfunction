@@ -1,0 +1,1 @@
+execute as @a[tag=SHGI_Shotgun08ReSu] at @s run tp @s ~ ~ ~ ~ ~-12
